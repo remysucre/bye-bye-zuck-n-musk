@@ -47,5 +47,7 @@ I have compiled a list of alternative platforms that are less evil. PRs are welc
 - https://www.communitystack.com/communities/
 - https://nomorefacebook.xyz
 - https://github.com/tycrek/degoogle
+- https://www.privacyguides.org/
+- https://www.privacytools.io
 
 ## Motivaiton
