@@ -50,4 +50,4 @@ I have compiled a list of alternative platforms that are less evil. PRs are welc
 - https://www.privacyguides.org/
 - https://www.privacytools.io
 
-## Motivaiton
+## Motivation
