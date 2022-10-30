@@ -3,6 +3,11 @@
 To celebrate the beginning of the downfall of facebook and twitter and to accelerate their implosion, 
 I have compiled a list of alternative platforms that are less evil. PRs are welcome. 
 
+## Principles
+- The platform must not sell user data. 
+- The platform should be mature with a healthy community of active users. 
+- The platform can be commercial, but with a healthy bussiness model that does not abuse its users. 
+
 ## Instant messaging
 - [Signal](https://signal.org/)
 
@@ -49,5 +54,8 @@ I have compiled a list of alternative platforms that are less evil. PRs are welc
 - https://github.com/tycrek/degoogle
 - https://www.privacyguides.org/
 - https://www.privacytools.io
+- https://pinboard.in
+- https://miniflux.app
+- https://lobste.rs
 
 ## Motivation
