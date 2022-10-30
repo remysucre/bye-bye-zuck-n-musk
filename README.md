@@ -31,3 +31,21 @@ I have compiled a list of alternative platforms that are less evil. PRs are welc
 ## Video
 - [LBRY](https://lbry.com)
 - [Peertube](https://joinpeertube.org)
+
+## More links
+- [substack](https://substack.com)
+- https://publicinfrastructure.org
+- https://goodreports.com
+- https://www.metafilter.com/190019/Are-you-ready-for-some-alternatives
+- https://ask.metafilter.com/295077/What-is-like-MetaFilter-but-not-brutally-depressing/amp
+- https://kottke.org/17/04/these-websites-could-change-your-life
+- https://tildes.net
+- https://publicinfrastructure.org/podcast/jessamyn-west-part-1/
+- Discourse instances: https://llllllll.co 
+- https://the-toast.net
+- https://www.discourse.org/customers
+- https://www.communitystack.com/communities/
+- https://nomorefacebook.xyz
+- https://github.com/tycrek/degoogle
+
+## Motivaiton
